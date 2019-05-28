@@ -1,0 +1,22 @@
+{
+  "name": "way-of-the-crane",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlesPiercey/Way-Of-The-Crane.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlesPiercey/Way-Of-The-Crane/issues"
+  },
+  "homepage": "https://github.com/CharlesPiercey/Way-Of-The-Crane#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
